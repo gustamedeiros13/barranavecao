@@ -18,11 +18,11 @@ const estilo = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#A0522D',
+    backgroundColor: '#2F4F4F',
   },
 titulo: {
 fontSize:20,
-color: '#FFA500',
+color: '#00FA9A',
 alignItems: 'center',
 justifyContent: 'center',
 textAlign:'center',
